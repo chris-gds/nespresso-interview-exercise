@@ -1,2 +1,2 @@
 # nespresso-interview-exercise
-Nespresso UI Exercise
+Nespresso UI Exercisesd
