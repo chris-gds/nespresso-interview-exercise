@@ -34,7 +34,7 @@ Description Tab Selected | Details Tab Selected
 - You are able to modify the HTML, SCSS and JS files.
 - The result of the Rendered Markup should be Keyboard Accessible.
 - CSS syntax should follow a "Mobile First" approach.
-- The template should not be pixel perfect but as close as possible to the attached Expected Desktop and Mobile views.
+- The template need to be as close as possible to the attached Expected Desktop and Mobile views.
 
 ## Installation
 
