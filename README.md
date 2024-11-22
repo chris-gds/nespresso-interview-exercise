@@ -55,3 +55,7 @@ You can view the development server at http://localhost:8080.
 ```bash
 npm run build
 ```
+
+### Design Review
+
+- The tab design is not a `Tab` it almost looks like `radio` I would add a border to the top and sides and integrate into the main tab content.
